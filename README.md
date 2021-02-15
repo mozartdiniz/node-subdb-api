@@ -3,6 +3,7 @@ node-subdb-api
 
 Node.js API library to query thesubdb.com
 
+![build status](https://travis-ci.org/ka2er/node-subdb-api.svg?branch=master)
 
 Usage
 -----
@@ -48,3 +49,4 @@ subdb.api.upload_subtitle(hash, subfile, function(err, res){
 	// sub subfile is normally uploaded to thesubdb.com servers
 });
 ```
+
